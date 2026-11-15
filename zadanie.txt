@@ -1,3 +1,4 @@
 Lista 6 z PWI
 Ucze sie korzystac z Git
 Ucze sie korzystac z Git
+Wysylam zmiany na GitHub
